@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dwyl/tudo.svg?branch=master)](https://travis-ci.org/dwyl/tudo)
+
 # Tudo
 
 You will need the following environment variables in your path:
