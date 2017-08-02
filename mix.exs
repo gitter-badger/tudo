@@ -47,8 +47,8 @@ defmodule Tudo.Mixfile do
      {:ueberauth, "~> 0.4"},
      {:ueberauth_github, "~> 0.4.1"},
      {:httpoison, "~> 0.11.1"},
-     {:rummage_ecto, "~> 1.0.0"},
-     {:rummage_phoenix, "~> 1.0.0"},
+     {:rummage_ecto, "~> 1.0"},
+     {:rummage_phoenix, "~> 1.1", override: true},
      {:poison, "~> 2.0"}]
   end
 
