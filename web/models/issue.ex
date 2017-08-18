@@ -1,6 +1,6 @@
 defmodule Tudo.Issue do
   use Tudo.Web, :model
-  use Rummage.Ecto, per_page: 10
+  # use Rummage.Ecto, per_page: 1
 
   @moduledoc false
 
